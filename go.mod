@@ -1,4 +1,5 @@
-module github.com/slsa-framework/slsa-verifier
+// module github.com/slsa-framework/slsa-verifier
+module github.com/ianlewis/slsa-verifier
 
 go 1.17
 
