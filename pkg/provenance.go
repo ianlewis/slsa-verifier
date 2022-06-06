@@ -46,8 +46,10 @@ const (
 )
 
 var (
-	trustedBuilderRepository = "slsa-framework/slsa-github-generator"
-	e2eTestRepository        = "slsa-framework/example-package"
+	// trustedBuilderRepository = "slsa-framework/slsa-github-generator"
+	// e2eTestRepository        = "slsa-framework/example-package"
+	trustedBuilderRepository = "ianlewis/slsa-github-generator"
+	e2eTestRepository        = "ianlewis/example-package"
 )
 
 // TODO: remove old builders.
