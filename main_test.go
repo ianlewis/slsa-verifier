@@ -4,7 +4,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/slsa-framework/slsa-verifier/pkg"
+	// "github.com/slsa-framework/slsa-verifier/pkg"
+	"github.com/ianlewis/slsa-verifier/pkg"
 
 	"github.com/google/go-cmp/cmp"
 	"github.com/google/go-cmp/cmp/cmpopts"

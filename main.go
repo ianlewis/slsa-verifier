@@ -12,8 +12,8 @@ import (
 	"log"
 	"os"
 
+	"github.com/ianlewis/slsa-verifier/pkg"
 	"github.com/sigstore/cosign/cmd/cosign/cli/rekor"
-	"github.com/slsa-framework/slsa-verifier/pkg"
 )
 
 var (
